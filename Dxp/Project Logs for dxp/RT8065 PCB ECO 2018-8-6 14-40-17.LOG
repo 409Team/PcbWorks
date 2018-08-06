@@ -1,0 +1,10 @@
+Added Component: Designator=U1(PSOP-8)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=U1-0
+Added Pin To Net: NetName=NetR2_1 Pin=U1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U1-2
+Added Pin To Net: NetName=VCC Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=NetL1_1 Pin=U1-5
+Added Pin To Net: NetName=NetR1_2 Pin=U1-6
+Added Pin To Net: NetName=NetR3_1 Pin=U1-7
